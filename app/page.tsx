@@ -2,8 +2,7 @@ import Image from "next/image";
 
 import Hero  from "@/components/neural-network-hero";
     
-import { Card, CardContent } from "@/components/ui/card";
-import { Button } from "@/components/ui/button"
+
 import { ElitePlanCard } from "@/components/elite-plan-card";
 import Link from "next/link";
 
